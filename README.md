@@ -13,6 +13,11 @@ Forecasting vehicle sales in Chile and Peru using classical, machine learning, a
 - SARIMAX, Random Forest, PatchTST, and TimeGPT
 - Model comparison, backtesting, and residual diagnostics
 
+## Results
+- Random Forest achieved the strongest overall forecasting accuracy.
+- TimeGPT performed particularly well in Chile.
+- News sentiment improved SARIMAX residual diagnostics and interpretability.
+
 ## Tech Stack
 ### Data Science & Machine Learning
 - Python
