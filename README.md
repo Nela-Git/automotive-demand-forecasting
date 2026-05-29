@@ -3,7 +3,7 @@
 A collection of end-to-end data science projects demonstrating machine learning, time-series forecasting, NLP, and sentiment analysis applied to real-world business problems.
 ---
 
-## Project
+## Project#1 
 
 ### 🚗 Automotive Demand Forecasting
 Forecasting vehicle sales in Chile and Peru using classical, machine learning, and foundation models.
