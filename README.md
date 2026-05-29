@@ -29,8 +29,8 @@ Forecasting vehicle sales in Chile and Peru using classical, machine learning, a
 
 ### Time-Series Forecasting
 - SARIMAX
+- Random Forest
 - TimeGPT
 - PatchTST
-
 
 ![Banner](images/banner.png)
