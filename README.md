@@ -32,4 +32,5 @@ Forecasting vehicle sales in Chile and Peru using classical, machine learning, a
 - TimeGPT
 - PatchTST
 
+
 ![Banner](images/banner.png)
