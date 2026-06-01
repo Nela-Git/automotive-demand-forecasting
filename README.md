@@ -14,6 +14,6 @@ A collection of end-to-end data science projects demonstrating machine learning,
 ### Time-Series Forecasting
 - SARIMAX, Random Forest, TimeGPT, PatchTST
 
-📓 **Interactive Notebook (NBViewer)**
-https://nbviewer.org/github/Nela-Git/automotive-demand-forecasting/blob/notebooks/Automotive_Demand_Forecasting_Git.ipynb
+**View Notebook in NBViewer:**  
+https://nbviewer.org/urls/raw.githubusercontent.com/Nela-Git/automotive-demand-forecasting/main/notebooks/Automotive_Demand_Forecasting_Git.ipynb
 
