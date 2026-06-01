@@ -16,5 +16,5 @@ A collection of end-to-end data science projects demonstrating machine learning,
 
 ### Alternative Formats
 - 📓 NBViewer Notebook
-  https://nbviewer.org/github/Nela-Git/automotive-demand-forecasting/blob/main/Automotive_Demand_Forecasting_final.ipynb
+  https://nbviewer.org/github/Nela-Git/automotive-demand-forecasting/blob/main/notebooks/Automotive_Demand_Forecasting_final.ipynb
 - 🌐 Static HTML Version
